@@ -1,0 +1,113 @@
+
+========================================
+MOVIE TICKET BOOKING SYSTEM
+========================================
+1. List Movies
+2. Display Shows and Seats
+3. Book Ticket and Make Payment
+4. Cancel Booking
+5. Display All Bookings
+0. Exit
+Enter choice: 
+--- Shows ---
+1. Screen 1 | 06:00 PM | 3 Idiots
+2. Screen 1 | 09:00 PM | 3 Idiots
+3. Screen 2 | 07:00 PM | Inception
+4. Screen 2 | 10:00 PM | Dangal
+Select show: 
+Seat Layout:
+A1 - SILVER [AVAILABLE]
+A2 - SILVER [AVAILABLE]
+B1 - GOLD [AVAILABLE]
+B2 - GOLD [AVAILABLE]
+C1 - PLATINUM [AVAILABLE]
+C2 - PLATINUM [AVAILABLE]
+How many seats? Enter seat 1: 1. UPI
+2. Card
+3. Cash
+Choose payment: 
+Customer: Riya
+Processing UPI payment of Rs.150...
+Payment successful. Booking confirmed.
+
+========================================
+MOVIE TICKET
+========================================
+Booking ID : BK1001
+Movie      : 3 Idiots
+Screen     : 1
+Show Time  : 06:00 PM
+Seats      : A1
+Total      : Rs.150.00
+Status     : CONFIRMED
+========================================
+
+Seat Layout:
+A1 - SILVER [BOOKED]
+A2 - SILVER [AVAILABLE]
+B1 - GOLD [AVAILABLE]
+B2 - GOLD [AVAILABLE]
+C1 - PLATINUM [AVAILABLE]
+C2 - PLATINUM [AVAILABLE]
+
+========================================
+MOVIE TICKET BOOKING SYSTEM
+========================================
+1. List Movies
+2. Display Shows and Seats
+3. Book Ticket and Make Payment
+4. Cancel Booking
+5. Display All Bookings
+0. Exit
+Enter choice: 
+--- Shows ---
+1. Screen 1 | 06:00 PM | 3 Idiots
+2. Screen 1 | 09:00 PM | 3 Idiots
+3. Screen 2 | 07:00 PM | Inception
+4. Screen 2 | 10:00 PM | Dangal
+Select show: 
+Seat Layout:
+A1 - SILVER [BOOKED]
+A2 - SILVER [AVAILABLE]
+B1 - GOLD [AVAILABLE]
+B2 - GOLD [AVAILABLE]
+C1 - PLATINUM [AVAILABLE]
+C2 - PLATINUM [AVAILABLE]
+How many seats? Enter seat 1: 1. UPI
+2. Card
+3. Cash
+Choose payment: 
+Customer: Riya
+Seat A1 is already BOOKED. Booking rejected.
+
+Seat Layout:
+A1 - SILVER [BOOKED]
+A2 - SILVER [AVAILABLE]
+B1 - GOLD [AVAILABLE]
+B2 - GOLD [AVAILABLE]
+C1 - PLATINUM [AVAILABLE]
+C2 - PLATINUM [AVAILABLE]
+
+========================================
+MOVIE TICKET BOOKING SYSTEM
+========================================
+1. List Movies
+2. Display Shows and Seats
+3. Book Ticket and Make Payment
+4. Cancel Booking
+5. Display All Bookings
+0. Exit
+Enter choice: 1. BK1001 | CONFIRMED
+2. BK1002 | PENDING
+Select booking: Booking BK1001 cancelled. Seats are AVAILABLE again.
+
+========================================
+MOVIE TICKET BOOKING SYSTEM
+========================================
+1. List Movies
+2. Display Shows and Seats
+3. Book Ticket and Make Payment
+4. Cancel Booking
+5. Display All Bookings
+0. Exit
+Enter choice: Thank you!
